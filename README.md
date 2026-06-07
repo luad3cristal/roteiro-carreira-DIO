@@ -13,6 +13,16 @@ Este documento consolida o diagnóstico de perfil profissional, a análise estra
 
 ---
 
+## 📚 Origem dos Prompts e Metodologia
+
+As diretrizes estruturais de triagem, a divisão de papéis entre os agentes inteligentes e os roteiros de planejamento técnico utilizados para consolidar este plano foram extraídos do repositório oficial de referências de engenharia de prompts da comunidade:
+
+* 🔗 **Fonte dos Prompts:** [digitalinnovationone/copilot-prompts](https://github.com/digitalinnovationone/copilot-prompts)
+
+A partir dos modelos contidos nesse repositório, o sistema aplicou regras críticas de personalização para calibrar os prazos, o nível de profundidade didática e o projeto de portfólio de acordo com a realidade de tempo e os objetivos da candidata.
+
+---
+
 ## 🗺️ Análise Estratégica da Rota de Carreira
 
 A escolha da rota de **Desenvolvedora Fullstack Web** com especialização em **Integração de IA** obteve a pontuação máxima de **19/20** na matriz de afinidade pelas seguintes diretrizes de mercado:
@@ -58,7 +68,7 @@ A escolha da rota de **Desenvolvedora Fullstack Web** com especialização em **
   * Estudar a integração de APIs de IA (como a API da OpenAI) no Backend.
   * Criar serviços assíncronos no Node.js para processar requisições voltadas a insights inteligentes.
 
-### MÊS 3 - Portfólio e Preparação para Processo Seletivo
+### MÊS 3 - Portfólio e Preparaçâo para Processo Seletivo
 * **Semanas 9-10:**
   * Finalizar a estilização, responsividade e realizar o deploy do projeto completo (ex: Vercel e Render).
   * Documentar o projeto no GitHub com um README profissional detalhando a arquitetura e as tecnologias.
@@ -79,7 +89,7 @@ A escolha da rota de **Desenvolvedora Fullstack Web** com especialização em **
   * Sistema de login funcional com persistência de sessão via token.
   * CRUD completo de tarefas funcionando em tempo real com o banco de dados.
   * Integração com IA gerando respostas úteis sem travar a interface do usuário (uso de loaders).
-* **💡 Dica:** Como seu tempo é curto no final de semana, use o primeiro final de semana do mês 2 puramente para fazer a IA funcionar em um arquivo isolado antes de colocá-la na estrutura principal do projeto.
+* **💡 Dica:** Como seu tempo é curto no final de semana, use o primeiro final de semana do mês 2 puramente para fazer a IA funcionar in-loco (em um arquivo isolado) antes de colocá-la na estrutura principal do projeto.
 
 ---
 
@@ -109,4 +119,4 @@ A escolha da rota de **Desenvolvedora Fullstack Web** com especialização em **
 
 ---
 
-🤖 *Este README foi produzido com o auxílio do Gemini (Google), estruturando os dados de diagnóstico de carreira e consolidando o roteiro executivo de estudos do usuário.*
+🤖 *Este README foi produzido com o auxílio do Gemini (Google), estruturando os dados de diagnóstico de carreira e consolidando o roteiro executivo de estudos baseado nos prompts da comunidade DIO.*
